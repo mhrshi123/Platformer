@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Fonts/gameOverFont.spritefont</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/Flag.jpg</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/hero.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/Layer0.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/Layer1.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/Layer2.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/Layer3.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/Layer4.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/tile1.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer/Platformer/Content/Images/tile2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
