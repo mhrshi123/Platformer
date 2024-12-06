@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\parallaxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\parallaxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\backgroundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\backgroundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\flag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\flag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\parallaxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\parallaxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|c:\\users\\mhrsh\\onedrive\\desktop\\platformer\\platformer\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DA69F-A7C7-4017-9E0C-6D92F1009032}|Platformer\\Platformer.csproj|solutionrelative:platformer\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BackgroundManager.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\BackgroundManager.cs",
               "RelativeDocumentMoniker": "Platformer\\BackgroundManager.cs",
               "ToolTip": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\BackgroundManager.cs",
               "RelativeToolTip": "Platformer\\BackgroundManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T07:24:48.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ParallaxLayer.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\ParallaxLayer.cs",
               "RelativeDocumentMoniker": "Platformer\\ParallaxLayer.cs",
@@ -92,20 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Flag.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Flag.cs",
               "RelativeDocumentMoniker": "Platformer\\Flag.cs",
               "ToolTip": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Flag.cs",
               "RelativeToolTip": "Platformer\\Flag.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T05:12:49.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Sprite.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Sprite.cs",
               "RelativeDocumentMoniker": "Platformer\\Sprite.cs",
@@ -113,12 +113,11 @@
               "RelativeToolTip": "Platformer\\Sprite.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:46:33.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:46:33.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Globals.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Globals.cs",
               "RelativeDocumentMoniker": "Platformer\\Globals.cs",
@@ -131,46 +130,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\GameManager.cs",
               "RelativeDocumentMoniker": "Platformer\\GameManager.cs",
               "ToolTip": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\GameManager.cs",
               "RelativeToolTip": "Platformer\\GameManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T04:45:12.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Map.cs",
               "RelativeDocumentMoniker": "Platformer\\Map.cs",
               "ToolTip": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Map.cs",
               "RelativeToolTip": "Platformer\\Map.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAD8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAD8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T04:44:58.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Hero.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Hero.cs",
               "RelativeDocumentMoniker": "Platformer\\Hero.cs",
               "ToolTip": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Hero.cs",
               "RelativeToolTip": "Platformer\\Hero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T04:44:46.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer\\Platformer\\Game1.cs",
               "RelativeDocumentMoniker": "Platformer\\Game1.cs",
@@ -178,8 +177,7 @@
               "RelativeToolTip": "Platformer\\Game1.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:31:00.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:31:00.337Z"
             }
           ]
         }

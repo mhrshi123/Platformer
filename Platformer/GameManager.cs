@@ -34,7 +34,7 @@ namespace Platformer
         {
             _map = new Map();
             _hero = new Hero(Globals.Content.Load<Texture2D>("Images/hero"), new Vector2(200, 200));
-            _flag = new Flag(Globals.Content.Load<Texture2D>("Images/Flag"), new Vector2(1536, 128), 0.128f); // Adjust the scale as needed
+            _flag = new Flag(Globals.Content.Load<Texture2D>("Images/Flag"), new Vector2(1536, 128), 0.128f); 
 
             _font = Globals.Content.Load<SpriteFont>("Fonts/gameOverFont");
             _bgm.AddLayer(new(Globals.Content.Load<Texture2D>("Images/Layer0"), 0.0f, 0.0f));
